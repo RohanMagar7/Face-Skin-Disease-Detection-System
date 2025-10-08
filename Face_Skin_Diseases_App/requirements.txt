@@ -1,0 +1,15 @@
+# Core ML / Deep Learning
+tensorflow==2.16.1
+numpy==1.26.4
+scikit-learn==1.5.1
+
+# Image Processing
+opencv-python==4.10.0.84
+Pillow==10.4.0
+matplotlib==3.9.2
+
+# Web App Framework
+streamlit==1.38.0
+
+# Utility
+tqdm==4.66.5
